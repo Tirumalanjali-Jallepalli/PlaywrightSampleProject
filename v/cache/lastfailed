@@ -1,0 +1,6 @@
+{
+  "testcases/test_playwright.py::test_first_example": true,
+  "testcases/test_playwright.py::test_finding_elements": true,
+  "pytestlearning": true,
+  "testcases/test_tracing.py::test_drag_and_drop": true
+}
